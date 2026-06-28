@@ -39,5 +39,5 @@ Key Learning:
   - Designing workflows with multiple approvers in Flow Designer helped me understand how to handle parallel approvals and approval aggregation logic effectively.
   - This implementation highlights how automation and proper workflow design can significantly improve operational efficiency and governance.
 
-Demo Videos - Watch on LinkdIn:
-[LinkdIn Post] - (https://www.linkedin.com/posts/sathish-s-132616264_servicenow-flowdesigner-automation-activity-7469368137327476736-8BhD?utm_source=share&utm_medium=member_android&rcm=ACoAAEDgAjYByl-9bH9C03fWczUpsuDQRM2BclY)
+Demo Videos - Watch on LinkedIn:
+[LinkedIn Post] - (https://www.linkedin.com/posts/sathish-s-132616264_servicenow-flowdesigner-automation-activity-7469368137327476736-8BhD?utm_source=share&utm_medium=member_android&rcm=ACoAAEDgAjYByl-9bH9C03fWczUpsuDQRM2BclY)
